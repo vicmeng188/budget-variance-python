@@ -1,4 +1,4 @@
-\# Budget vs Actual Variance Analysis (Python)
+# Budget vs Actual Variance Analysis (Python)
 
 
 
@@ -6,7 +6,7 @@ A small Python script that combines six monthly Budget vs Actual files, summaris
 
 
 
-\## What it does
+## What it does
 
 
 
@@ -22,7 +22,7 @@ A small Python script that combines six monthly Budget vs Actual files, summaris
 
 
 
-\## Data
+## Data
 
 
 
@@ -30,7 +30,7 @@ Synthetic data covering 3 departments, 4 cost categories and 6 months (January t
 
 
 
-\## Reconciliation check
+## Reconciliation check
 
 
 
@@ -38,7 +38,7 @@ The script asserts that Total Budget is 1,217,482 and Total Actual is 1,214,413.
 
 
 
-\## How to run
+## How to run
 
 
 
@@ -52,7 +52,7 @@ python analysis.py
 
 
 
-\## Output
+## Output
 
 
 
